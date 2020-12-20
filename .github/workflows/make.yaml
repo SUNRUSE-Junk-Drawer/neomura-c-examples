@@ -7,5 +7,5 @@ jobs:
     - uses: actions/checkout@v2
     - run: sudo apt-get update
     - run: sudo apt-get install clang-10 binaryen
-    - uses: neomura/setup-aseprite-cli-action
+    - uses: neomura/setup-aseprite-cli-action@v1
     - run: make
