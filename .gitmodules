@@ -1,0 +1,3 @@
+[submodule "submodules/neomura/c-game-library"]
+	path = submodules/neomura/c-game-library
+	url = https://github.com/neomura/c-game-library
