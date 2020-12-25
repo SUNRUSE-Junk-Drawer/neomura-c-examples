@@ -1,3 +1,6 @@
 [submodule "submodules/neomura/c-library"]
 	path = submodules/neomura/c-library
 	url = https://github.com/neomura/c-library
+[submodule "submodules/neomura/c-library-sprites"]
+	path = submodules/neomura/c-library-sprites
+	url = https://github.com/neomura/c-library-sprites
