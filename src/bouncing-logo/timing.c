@@ -1,0 +1,3 @@
+#include "timing.h"
+
+REFRESH_RATE_IMPLEMENTATION
