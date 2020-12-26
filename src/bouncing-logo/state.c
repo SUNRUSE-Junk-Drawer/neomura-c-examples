@@ -1,0 +1,6 @@
+#include "state.h"
+
+STATE_IMPLEMENTATION(x, u16_t)
+STATE_IMPLEMENTATION(y, u16_t)
+
+STATE_IMPLEMENTATION(motion, u8_t)
