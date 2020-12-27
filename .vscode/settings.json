@@ -13,6 +13,8 @@
   "files.exclude": {
     "**/.git": true,
     "**/.DS_Store": true,
+    "**/*.ase.c": true,
+    "**/*.ase.h": true,
     "dist": true,
     "node_modules": true,
     "tmp": true
