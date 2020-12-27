@@ -28,6 +28,8 @@ void elapse_axis(u16_t *position, u8_t motion_reverse_bit, u16_t canvas_size, u8
       (*position)--;
     }
   }
+
+  state_elapsed_buffer++;
 }
 
 ELAPSE_IMPLEMENTATION

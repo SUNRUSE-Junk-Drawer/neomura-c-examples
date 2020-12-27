@@ -7,3 +7,5 @@ STATE_DECLARATION(y, u16_t)
 #define STATE_MOTION_UP 2
 
 STATE_DECLARATION(motion, u8_t)
+
+STATE_DECLARATION(elapsed, u64_t)
